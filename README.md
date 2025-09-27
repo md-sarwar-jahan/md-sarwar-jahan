@@ -12,13 +12,13 @@
 
   <h2 style="color: #1e40af; border-bottom: 2px solid #e0e7ff; padding-bottom: 5px;">Skills</h2>
   <ul style="list-style: disc; padding-left: 20px;">
-    <li><strong>Programming & Tools</strong>: Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL, PostgreSQL, Power BI, Advanced Excel</li>
+    <li><strong>Programming & Tools</strong>: Python (Pandas, NumPy, Matplotlib, Seaborn), MySQL, Power BI, Excel</li>
     <li><strong>Data Analysis</strong>: Data Cleaning, Exploratory Data Analysis (EDA), Visualization, Machine Learning Basics</li>
     <li><strong>Domains</strong>: E-commerce Analytics, Economic Modeling, Sales Forecasting, Customer Insights</li>
     <li><strong>Soft Skills</strong>: Problem-Solving, Research, Thesis Writing, Creative Thinking</li>
   </ul>
   <div style="margin: 10px 0;">
-    <img src="https://skillicons.dev/icons?i=python,mysql,postgresql,excel,powerbi,git,github" alt="Skills Icons">
+    <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel,git,github" alt="Skills Icons">
   </div>
 
   <h2 style="color: #1e40af; border-bottom: 2px solid #e0e7ff; padding-bottom: 5px;">Education</h2>
