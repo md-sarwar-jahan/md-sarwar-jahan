@@ -14,8 +14,9 @@
 
 ---
 
+<!-- Person working on computer GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26gR1yk0e3b8OeJde/giphy.gif" width="600" alt="Data Analyst at work">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Person working on computer">
 </p>
 
 ---
