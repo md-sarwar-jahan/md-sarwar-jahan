@@ -14,7 +14,6 @@
 
 ---
 
-<!-- Person working on computer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Person working on computer">
 </p>
@@ -28,13 +27,33 @@
 - **Domains**: E-commerce Analytics, Economic Modeling, Sales Forecasting, Customer Insights  
 - **Soft Skills**: Problem-Solving, Research, Thesis Writing, Creative Thinking  
 
+---
+
+## 🛠️ Languages & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,excel,git,github" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" height="48" hspace="15">
+  
+  <!-- MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" hspace="15">
+  
+  <!-- Power BI (official repo image) -->
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" alt="Power BI" width="48" height="48" hspace="15">
+  
+  <!-- Excel (official MS Office icon, SVG hosted on GitHub) -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="Excel" width="48" height="48" hspace="15">
+  
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" hspace="15">
+  
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="48" height="48" hspace="15">
 </p>
 
 ---
 
-## 🎓 Education & Certifications  
+## 🎓 Education & Certifications
 
 - **MSc in Economics** – Johannes Gutenberg University, Mainz  
   📊 Thesis: *"Trade Effects of Brexit"* – Analyzed 82M+ data points using Python to evaluate trade impacts  
@@ -47,7 +66,7 @@
 
 ---
 
-## 🚀 Projects  
+## 🚀 Projects
 
 ### 📌 Ecommerce MySQL Analysis Project  
 - Analyzed **e-commerce sales data** using MySQL  
@@ -68,7 +87,7 @@
 
 ---
 
-## 📫 Contact  
+## 📫 Contact
 
 - **Email**: [sarwartareq@gmail.com](mailto:sarwartareq@gmail.com)  
 - **LinkedIn**: [Md Sarwar Jahan](https://www.linkedin.com/in/jahan-md-sarwar)  
