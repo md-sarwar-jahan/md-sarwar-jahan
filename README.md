@@ -83,7 +83,6 @@
 - Tools: Python (Pandas, NumPy, Matplotlib, Seaborn, Jupyter)  
 
 🔗 [View Repository](https://github.com/md-sarwar-jahan/Ecommerce_analysis)  
-📊 [Dataset](https://www.kaggle.com/datasets/retailrocket/ecommerce-dataset)  
 
 ---
 
