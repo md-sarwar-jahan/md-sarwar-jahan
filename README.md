@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Sarwar Jahan</h1>
-<h3 align="center">Data Analyst | Economist | Passionate about Data-Driven Insights</h3>
+<h3 align="center">Data Analyst | Economics | Passionate about Data-Driven Insights</h3>
 
 ---
 
